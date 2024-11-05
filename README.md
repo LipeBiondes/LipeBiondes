@@ -49,33 +49,33 @@ Olá, eu me chamo Alefe, tenho 23 anos e nasci em Brasil Novo - PA. Sou engenhei
   title="HTML" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-
-<img
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
-/>
-
-<img
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <img 
   align="left" 
-  alt="HTML"
+  alt="HTML" 
   title="HTML" 
   width="30px" 
-  style="padding-right: 10px;" 
+  style="padding-right: 10px; filter: invert(1);" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="HTML" 
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px; filter: invert(1);" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="HTML" 
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px; filter: invert(1);" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" 
 />
 
@@ -151,13 +151,13 @@ Olá, eu me chamo Alefe, tenho 23 anos e nasci em Brasil Novo - PA. Sou engenhei
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg"
 />
 
-<img
+<img 
   align="left" 
-  alt="HTML"
+  alt="HTML" 
   title="HTML" 
   width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+  style="padding-right: 10px; filter: invert(1);" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" 
 />
 
 <img
@@ -178,13 +178,13 @@ Olá, eu me chamo Alefe, tenho 23 anos e nasci em Brasil Novo - PA. Sou engenhei
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
-<img
+<img 
   align="left" 
-  alt="HTML"
+  alt="HTML" 
   title="HTML" 
   width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  style="padding-right: 10px; filter: invert(1);" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
 <img
